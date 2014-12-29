@@ -1,0 +1,236 @@
+# depslib dependency file v1.0
+1409795460 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\cg\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1409856584 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\cg_001\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1410194266 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\sandbox\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1409950277 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\sandbox\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<cmath>
+
+1410204117 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab2parte1\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1410210058 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab2atividade2\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1410218676 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab2atividade3\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1410466609 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab3atividade1\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1411005716 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\fractals01\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1411008998 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\fractals\branch.cpp
+	"Branch.h"
+
+1411008644 c:\users\gilberto\dropbox\projetoscodeblocks\cg\fractals\branch.h
+	<stdlib.h>
+
+1411009011 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\fractals\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Branch.h"
+
+1411041910 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\fractals\branch.cpp
+	"Branch.h"
+
+1411041910 c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\fractals\branch.h
+	<stdlib.h>
+
+1411041909 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\fractals\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Branch.h"
+
+1411082628 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\lab4atividade1\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Vector.h"
+	"Particle.h"
+
+1411074765 c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\lab4atividade1\vector.h
+	<stdlib.h>
+	<cmath>
+
+1411074916 c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\lab4atividade1\particle.h
+	<stdlib.h>
+	"Vector.h"
+
+1411082121 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\lab4atividade1\particle.cpp
+	"Particle.h"
+
+1411075219 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\lab4atividade1\vector.cpp
+	"Vector.h"
+
+1411132563 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab4atividade1\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Vector.h"
+	"Particle.h"
+
+1411133575 c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab4atividade1\vector.h
+	<stdlib.h>
+	<cmath>
+
+1411133596 c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab4atividade1\particle.h
+	<stdlib.h>
+	"Vector.h"
+
+1411093556 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab4atividade1\particle.cpp
+	"Particle.h"
+
+1411132472 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab4atividade1\vector.cpp
+	"Vector.h"
+
+1412704691 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\particlesystem\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	"Vector.h"
+	"Particle.h"
+	"ParticleSystem.h"
+
+1412704691 c:\users\gilberto\dropbox\projetoscodeblocks\cg\particlesystem\vector.h
+	<stdlib.h>
+	<cmath>
+
+1412704691 c:\users\gilberto\dropbox\projetoscodeblocks\cg\particlesystem\particle.h
+	<stdlib.h>
+	"Vector.h"
+
+1412704691 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\particlesystem\particle.cpp
+	"Particle.h"
+
+1412704691 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\particlesystem\vector.cpp
+	"Vector.h"
+
+1412704691 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\particlesystem\particlesystem.cpp
+	"ParticleSystem.h"
+
+1412704691 c:\users\gilberto\dropbox\projetoscodeblocks\cg\particlesystem\particlesystem.h
+	"Particle.h"
+
+1412701091 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\particlesystem\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	"Vector.h"
+	"Particle.h"
+	"ParticleSystem.h"
+
+1412701091 c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\particlesystem\vector.h
+	<stdlib.h>
+	<cmath>
+
+1412701091 c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\particlesystem\particle.h
+	<stdlib.h>
+	"Vector.h"
+
+1412701091 c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\particlesystem\particlesystem.h
+	"Particle.h"
+
+1412701091 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\particlesystem\particle.cpp
+	"Particle.h"
+
+1412701091 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\particlesystem\particlesystem.cpp
+	"ParticleSystem.h"
+
+1412701091 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\particlesystem\vector.cpp
+	"Vector.h"
+
+1412701090 source:c:\users\gilberto antonio\documents\github\particlesytem\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	"Vector.h"
+	"Particle.h"
+	"ParticleSystem.h"
+
+1412701090 c:\users\gilberto antonio\documents\github\particlesytem\vector.h
+	<stdlib.h>
+	<cmath>
+
+1412701090 c:\users\gilberto antonio\documents\github\particlesytem\particle.h
+	<stdlib.h>
+	"Vector.h"
+
+1412701090 c:\users\gilberto antonio\documents\github\particlesytem\particlesystem.h
+	"Particle.h"
+
+1412701090 source:c:\users\gilberto antonio\documents\github\particlesytem\particle.cpp
+	"Particle.h"
+
+1412701090 source:c:\users\gilberto antonio\documents\github\particlesytem\particlesystem.cpp
+	"ParticleSystem.h"
+
+1412701090 source:c:\users\gilberto antonio\documents\github\particlesytem\vector.cpp
+	"Vector.h"
+
